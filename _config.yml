@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "中医小组"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -116,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wechat           : "hello"
 
 
 # Reading Files
